@@ -1,2 +1,2 @@
 # sentiment-analysis-webapp
- Web application to analyze sentiments, deployed to AWS
+ Web application to analyze sentiments, Deployed to AWS
